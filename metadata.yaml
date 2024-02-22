@@ -1,0 +1,40 @@
+_repo: Voyage-a-Montbard_72990
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Aulard, François-Alphonse
+    gutenberg_agent_id: '56901'
+    url: http://www.gutenberg.org/2009/agents/56901
+  illustrator:
+    agent_name: Lalauze, Adolphe
+    alias: Lalauze, A. (Adolphe)
+    birthdate: 1838
+    deathdate: 1906
+    gutenberg_agent_id: '25444'
+    url: http://www.gutenberg.org/2009/agents/25444
+    wikipedia: http://fr.wikipedia.org/wiki/Adolphe_Lalauze
+creator:
+  author:
+    agent_name: Séchelles, Marie-Jean Hérault de
+    gutenberg_agent_id: '56900'
+    url: http://www.gutenberg.org/2009/agents/56900
+description: ''
+gutenberg_issued: '2024-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72990'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn28km
+pgterms:marc905: 20240201213149hraultdesc
+pgterms:marc906: '1890'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bLibrairie des bibliophiles, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage à Montbard
+url: http://www.gutenberg.org/ebooks/72990
