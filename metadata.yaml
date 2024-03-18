@@ -13,12 +13,17 @@ contributor:
     gutenberg_agent_id: '25444'
     url: http://www.gutenberg.org/2009/agents/25444
     wikipedia: http://fr.wikipedia.org/wiki/Adolphe_Lalauze
+covers:
+- cover_type: archival
+  image_path: 72990-h/images/cover.jpg
 creator:
   author:
     agent_name: Séchelles, Marie-Jean Hérault de
     gutenberg_agent_id: '56900'
     url: http://www.gutenberg.org/2009/agents/56900
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72990#Voyage-a-Montbard
 gutenberg_issued: '2024-02-19'
 gutenberg_type: Text
 identifiers:
